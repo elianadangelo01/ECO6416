@@ -56,6 +56,7 @@ ECO6416/.Rproj.user/shared/notebooks/paths
 01-GettingStaRted/.Rproj.user/CA2E5524/sources/s-9AA24FBA/A3000734-contents
 01-GettingStaRted/.Rproj.user/CA2E5524/sources/prop/7B8F30A7
 01-GettingStaRted/.Rproj.user/CA2E5524/jobs/3F1FAE55-output.json
+<<<<<<< Updated upstream
 02-BasicStatistics/.Rproj.user/CA2E5524/sources/prop/0997177C
 02-BasicStatistics/.Rproj.user/CA2E5524/sources/prop/1EEFBDBB
 02-BasicStatistics/.Rproj.user/CA2E5524/sources/prop/80EB8907
@@ -130,4 +131,6 @@ ECO6416/.Rproj.user/shared/notebooks/paths
 02-BasicStatistics/.Rproj.user/shared/notebooks/CEF3105E-InclassExercise1/1/s/chunks.json
 02-BasicStatistics/.Rproj.user/shared/notebooks/patch-chunk-names
 02-BasicStatistics/.Rproj.user/shared/notebooks/paths
+=======
+>>>>>>> Stashed changes
 .Rproj.user
