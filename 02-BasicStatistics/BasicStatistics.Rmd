@@ -127,6 +127,7 @@ To get most of the items of interest, you can simply use the `summary()` functio
 
 ```{r}
 summary(mtcars)
+
 ```
 
 # Bivariate Analysis
@@ -173,7 +174,7 @@ To add the trend line, we need to do something that we haven't discussed yet. Do
 
 ```{r}
 plot(Wealth1percent$quarter,Wealth1percent$Share, type = "l")
-abline(lm(Share ~ quarter, data = Wealth1percent),lty = 2)
+abline(lm(Share ~ quarter, data = Wealth1percent),lty = 2, col="red")
 ```
 
 
