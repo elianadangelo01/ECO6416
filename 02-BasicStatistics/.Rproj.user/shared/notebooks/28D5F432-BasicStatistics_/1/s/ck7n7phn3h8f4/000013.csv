@@ -1,0 +1,3 @@
+"0",""
+"0","grades <- rnorm(100,mean = 75, sd = 5 )"
+"0","hist(grades)"

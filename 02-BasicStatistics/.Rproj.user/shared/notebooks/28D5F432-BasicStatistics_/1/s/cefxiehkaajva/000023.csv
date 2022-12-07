@@ -1,0 +1,1 @@
+"0","abline(lm(Share ~ quarter, data = Wealth1percent),lty = 2, col=""red"")"

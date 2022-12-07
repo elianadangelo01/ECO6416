@@ -1,0 +1,8 @@
+"0","ggplot(Wealth1percent, aes(quarter, Share))+"
+"0","  geom_line(color = 'gray40',alpha = 0.75)+"
+"0","  geom_smooth(method = ""lm"", se = F, color = 'darkblue', linetype = 'dashed')+"
+"0","  theme_bw()+"
+"0","  labs(title = ""Share of Total Net Worth Held by the Top 1%"","
+"0","       subtitle = 'from 1989-2022',"
+"0","       x = ""Date"","
+"0","       y = ""Share"")"

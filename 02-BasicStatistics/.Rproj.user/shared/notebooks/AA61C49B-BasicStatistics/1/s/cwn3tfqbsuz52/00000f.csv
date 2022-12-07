@@ -1,0 +1,2 @@
+"0","plot_ly(y = starwars$height, type = 'box', name = 'Height [cm]',text = starwars$name) %>% "
+"0","  layout(title = 'Distribution of Star Wars Character Heights')"

@@ -1,0 +1,6 @@
+"0","hair <- table(starwars$hair_color)%>% "
+"0","  data.frame()"
+"0",""
+"0","colnames(hair)[1] <- ""Hair Color"""
+"0",""
+"0","gt(hair)"

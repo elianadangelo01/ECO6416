@@ -1,0 +1,2 @@
+"0","Wealth1percent <- read_excel(""../Data/Wealth1percent.xlsx"","
+"0","                             col_types = c(""date"", ""numeric"",""numeric""))"

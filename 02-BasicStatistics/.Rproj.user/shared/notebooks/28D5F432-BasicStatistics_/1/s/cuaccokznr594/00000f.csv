@@ -1,0 +1,7 @@
+"0","bins <- seq(10,34,by = 2)"
+"0",""
+"0","mpg <- cut(mtcars$mpg,bins)"
+"0",""
+"0","table(mpg)%>%"
+"0","  data.frame() %>% "
+"0","  gt()"

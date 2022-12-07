@@ -1,0 +1,4 @@
+"0","plot(mail$PopUSA, mail$FirstClVol,"
+"0","     main = ""Scatterplot of Population and First Class Mail"","
+"0","     xlab = ""Population"","
+"0","     ylab = ""Mail Volume"")"

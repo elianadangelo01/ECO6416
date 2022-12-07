@@ -1,0 +1,4 @@
+"0","plot_ly(x = ~mtcars$mpg, type = ""histogram"", alpha = 0.6) %>% "
+"0","  layout(title = 'Distribution of Miles Per Gallon',"
+"0","         xaxis = list(title = 'Miles Per Gallon'),"
+"0","         yaxis = list(title = 'Count'))"

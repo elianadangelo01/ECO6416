@@ -1,0 +1,4 @@
+"0","ggplot(mtcars, aes(mpg))+ "
+"0","  geom_histogram(binwidth = 2,col = 'black', fill = 'darkblue', alpha = 0.75)+"
+"0","  labs(title = 'Distribution of Miles Per Gallon', caption = ""1974 Motor Trend US Magazine"")+"
+"0","  theme_bw()"
